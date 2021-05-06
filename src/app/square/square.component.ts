@@ -10,7 +10,8 @@ import {Component, Input} from '@angular/core';
   styles: [
     'button {' +
     'height: 100%;' +
-    'width: 100%' +
+    'width: 100%;' +
+    'font-size: 5em !important;' +
     '}}'
   ]
 })
